@@ -1,7 +1,7 @@
 ### MaskDetection_AlertSystem(FOR COVID-19)
-PROBLEM: TODAY FACE MASK BECAME COMPULSORY FOR ALL THE PEOPLE IN THE WORLD, BUT SOME PEOPLE DUE TO THERE NEGLIGENCE THEY ARE NOT WEARING MASK. SO CHECKING EVERYONE 24HRS IN AN ORGANIZATION IS BIT TEDIOUS TASK. SO THERE COMES AUTOMATED MASK DETECTION ALERT SYSTEM.
+Problem: Today Face Mask has become compulsory for all the people in the world, But, some people due to their negligence of not wearing the mask, making the situation severe. So, checking everyone 24hrs in an organization is a bit tedious task. So there comes Automated Mask Detection Alert System.
 
-AIM: TO MAKE A LIVE_STREAM MASK DETECTION SYSTEM WHERE IT GIVES SOUND ALERTS AND ALSO SEND MAIL ALERT TO THE ADMIN WHEN IT FIND SOMEONE WITHOUT MASK.
+Objective: To Make a LIVE_STREAM MASK DETECTION SYSTEM Where It detects and recognizes the face and warns someone to wear the mask through speech and also send mail alerts to the admin when it finds someone without mask.
 
 THE MODEL USED IN THE PROJECT IS VGG16.
 
